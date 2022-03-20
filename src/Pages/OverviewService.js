@@ -41,9 +41,9 @@ export default function OverviewService() {
               <h3>Agendar Horario</h3>
               <Box>
                 <Grid container sx={{backgroundColor:"#EAEAEA", padding:1, textAlign:"center", borderRadius:"10px"}}>
-                  <Grid item xs={5} sx={{padding:1}}>Asesoría General (Primer Servicio)</Grid>
-                  <Grid item xs={2} sx={{padding:1}}>30 min</Grid>
-                  <Grid item xs={2} sx={{padding:1}}>MXN $380.00</Grid>
+                  <Grid item xs={5} sx={{paddingTop:1}}>Asesoría General (Primer Servicio)</Grid>
+                  <Grid item xs={2} sx={{paddingTop:1}}>30 min</Grid>
+                  <Grid item xs={2} sx={{paddingTop:1}}>MXN $380.00</Grid>
                   <Grid item xs={3}>
                     <Box sx={{maxWidth:"50%", padding:1,marginLeft:"auto", marginRight:"auto", borderRadius:"5px", backgroundColor:"#DD4949", color:"white"}}>
                       Agendar
